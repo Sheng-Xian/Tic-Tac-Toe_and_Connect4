@@ -1,11 +1,11 @@
 This project is to implement Minimax and Reinforcement Learning algorithms for playing 2 games, Tic Tac Toe and Connect 4, and compare their performance.
 
-#All code is in the folder code, please unzip it and place in a suitable place
-#set up python in PC
-#install numpy by below command
+All code is in the folder code, please unzip it and place in a suitable place.
+
+Prerequisite:
 pip install numpy
-#using command line enter where play_game.py exist （code\connect4\ or code\tic_tac_toe）
-#run below command to see different players competes in Tic Tac Toe and Connect 4 games
+
+run below command to see different players competes in Tic Tac Toe and Connect 4 games
 
 #Tic Tac Toe
 
